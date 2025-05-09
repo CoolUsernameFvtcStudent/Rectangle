@@ -3,16 +3,18 @@
 
 using namespace std;
 
-float GetLengthFromUser(float o)
+float GetLengthFromUser()
 {
-	cout << "Enter a number\n";
+	cout << "Enter a Length\n";
+	float o;
 	cin >> o;
 	return o;
 }
 
-float GetWidthFromUser(float o)
+float GetWidthFromUser()
 {
-	cout << "Enter a number\n";
+	cout << "Enter a Width\n";
+	float o;
 	cin >> o;
 	return o;
 }
@@ -22,15 +24,14 @@ float CalculateArea(float L, float W)
 	return L * W;
 }
 
-float DisplayArea(float Total)
+void DisplayArea(float Total)
 {
-	cout << "Your total is\n" << Total;
-	return 0;
+	cout << "Your total area is:\n" << Total;
 }
 
 int main()
 {
-	DisplayArea(CalculateArea(GetLengthFromUser(0.00f), GetWidthFromUser(0.00f)));
+	DisplayArea(CalculateArea(GetLengthFromUser(), GetWidthFromUser()));
 	(void)_getch();
 	return 0;
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Simble\\source\\repos\\RectngleAttemptTwo\\",
+  "WorkspaceRootPath": "C:\\Users\\simble\\source\\repos\\RectngleAttemptTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325FD5F0-9BF7-4586-934B-7E70A8C3FF1A}|RectngleAttemptTwo\\RectngleAttemptTwo.vcxproj|C:\\Users\\Simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{325FD5F0-9BF7-4586-934B-7E70A8C3FF1A}|RectngleAttemptTwo\\RectngleAttemptTwo.vcxproj|C:\\Users\\simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{325FD5F0-9BF7-4586-934B-7E70A8C3FF1A}|RectngleAttemptTwo\\RectngleAttemptTwo.vcxproj|solutionrelative:RectngleAttemptTwo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp",
               "RelativeDocumentMoniker": "RectngleAttemptTwo\\main.cpp",
-              "ToolTip": "C:\\Users\\Simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp",
+              "ToolTip": "C:\\Users\\simble\\source\\repos\\RectngleAttemptTwo\\RectngleAttemptTwo\\main.cpp",
               "RelativeToolTip": "RectngleAttemptTwo\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-12T01:29:22.617Z",
               "EditorCaption": ""
